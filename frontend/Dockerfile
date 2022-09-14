@@ -13,7 +13,7 @@ COPY . /usr/src/app
 RUN npm run-script build
 
 # Production environment
-from nginx:latest
+from nginx:1.23.1
 
 RUN mkdir -p /usr/share/nginx/html/build
 RUN mkdir -p /usr/share/nginx/html/css
