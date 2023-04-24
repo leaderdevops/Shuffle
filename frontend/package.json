@@ -55,7 +55,7 @@
     "simplebar": "^4.2.3",
     "styled-components": "^4.4.0",
     "websocket": "^1.0.30",
-    "yaml": "^1.7.2",
+    "yaml": "^2.2.2",
     "yamljs": "^0.3.0",
     "zone.js": "~0.8.26"
   },
